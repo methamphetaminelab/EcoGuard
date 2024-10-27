@@ -35,6 +35,7 @@ python
     YANDEX_GPT_API_URL = 'https://api.yandex.cloud/v1/some_endpoint'
     IAM_TOKEN = 'ваш_IAM_токен'
     FOLDER_ID = 'ваш_ID_папки'
+    MODEL_URI = 'ваш_ID_модели'
 
 Запуск
 
