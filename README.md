@@ -6,11 +6,14 @@ EcoGuard — это Telegram-бот, созданный для помощи эк
 
     Python 3.7+
     Установленные библиотеки:
-        pyTelegramBotAPI
         requests
+        pyTelegramBotAPI
+        python-docx
         PyPDF2
         Pillow
-        python-docx
+        pytesseract
+        pandas
+
 
 Установка
 
