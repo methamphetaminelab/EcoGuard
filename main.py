@@ -129,9 +129,8 @@ def process_image(image_path):
     return image_to_string(Image.open(image_path), lang='rus')
 
 def truncate_text(text, max_tokens=3800):
-    tokens = text.split()
-    truncated = ' '.join(tokens[:max_tokens])
-    return truncated
+    text = text[:max_tokens]
+    return text
     
 def query_yandex_gpt(extracted_text, user_message, user_id):
     file_name = user_data[user_id]['file_name']
