@@ -1,0 +1,5 @@
+BOT_TOKEN = '7896899837:AAE3XjAfC4HgFTD97aSAOrgnkTiBWucdF5w'
+FOLDER_ID = 'b1gkjr087f8f7lk4i0ch'
+YANDEXGPT_KEY = 'AQVNysAmCS3rly4yhbcLg_U4OaRKZRe6wbrjdohW'
+YANDEX_GPT_API_URL = 'https://llm.api.cloud.yandex.net/foundationModels/v1/completion'
+IAM_TOKEN = 't1.9euelZqPysuZxs2UlY7Iy5jLmouOl-3rnpWaz47PzI6SyJaLl4zJz8nLkMnl8_cFaQhH-e9tbmxz_d3z90UXBkf5721ubHP9zef1656VmoyTjpSXl8-WjJOXy4yLkJSR7_zF656VmoyTjpSXl8-WjJOXy4yLkJSR.lbuGV57zMjEAvxcUHKKd5eK8OKNOGFCysYHSeehVLsCV91HbRPZI6_IDDGM2wexruXQbfremM2iOp0nizkLLDA'
